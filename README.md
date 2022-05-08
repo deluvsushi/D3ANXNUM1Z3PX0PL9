@@ -1,4 +1,4 @@
-# DeanonymizePeople
+# D3ANXNUM1Z3PX0PL9
 Tool for getting information about a person's number/IP address
 
 ### Termux
@@ -7,7 +7,7 @@ Tool for getting information about a person's number/IP address
 - apt upgrade -y
 - pkg install python
 - pip install tabulate
-- git clone https://github.com/deluvsushi/DeanonymizePeople
-- cd DeanonymizePeople
-- python DeanonymizePeople.py
+- git clone https://github.com/deluvsushi/D3ANXNUM1Z3PX0PL9
+- cd D3ANXNUM1Z3PX0PL9
+- python D3ANXNUM1Z3PX0PL9.py
 ```
