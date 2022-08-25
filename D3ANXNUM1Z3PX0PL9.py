@@ -1,7 +1,7 @@
 from configs import utils
 print("""\u001b[32m
-Script by deluvsushi
-Github : https://github.com/deluvsushi
+Script by zeviel
+Github : https://github.com/zeviel
 ┏━━┳━━━┳━━┳━┳┳┓┏┳━┳┳┳┳━┳━┓┏┳━━┳━━━┳━┳┓┏┳━━━┳━┳┓┏━━━┓
 ┗┓┓┃┏━┓┃┏┓┃┃┃┣┓┏┫┃┃┃┃┃┃┃┃┣┛┣━━┃┏━┓┃╋┣┓┏┫┏━┓┃╋┃┃┃┏━┓┃
 ┏┻┛┣┛┏┛┃┣┫┃┃┃┣┛┗┫┃┃┃┃┃┃┃┃┣┓┃━━╋┛┏┛┃┏╋┛┗┫┃┃┃┃┏┫┗┫┗━┛┃
